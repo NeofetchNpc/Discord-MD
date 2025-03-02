@@ -1,0 +1,14 @@
+{
+  "name": "Discord-MD",
+  "version": "1.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "neastooapi": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
